@@ -24,8 +24,7 @@ export default function About() {
             </p>
             <p>
               I hold a B.Tech in Computer Science with a specialization in Machine Intelligence
-              from PES University. When I'm not coding, you'll find me on the football field,
-              trekking, reading, or listening to music.
+              from PES University.
             </p>
           </div>
         </div>
