@@ -1,0 +1,18 @@
+:root {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #12121a;
+  --bg-card: #1a1a2e;
+  --bg-card-hover: #222240;
+  --accent: #6c63ff;
+  --accent-glow: rgba(108, 99, 255, 0.3);
+  --accent-secondary: #00d4aa;
+  --text-primary: #e8e8f0;
+  --text-secondary: #9999b0;
+  --text-muted: #66667a;
+  --border: #2a2a3e;
+  --gradient-1: linear-gradient(135deg, #6c63ff, #00d4aa);
+  --gradient-2: linear-gradient(135deg, #6c63ff 0%, #9b59b6 100%);
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
