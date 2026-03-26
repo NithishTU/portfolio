@@ -1,8 +1,5 @@
 .about-content {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 3rem;
-  align-items: start;
+  max-width: 750px;
 }
 
 .about-text p {

@@ -28,20 +28,6 @@ export default function About() {
               trekking, reading, or listening to music.
             </p>
           </div>
-          <div className="about-highlights">
-            <div className="highlight-card">
-              <span className="highlight-number">106+</span>
-              <span className="highlight-label">Commits Shipped</span>
-            </div>
-            <div className="highlight-card">
-              <span className="highlight-number">7</span>
-              <span className="highlight-label">Compiler Deltas</span>
-            </div>
-            <div className="highlight-card">
-              <span className="highlight-number">1</span>
-              <span className="highlight-label">IEEE Publication</span>
-            </div>
-          </div>
         </div>
       </div>
     </section>
